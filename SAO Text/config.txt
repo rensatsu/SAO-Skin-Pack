@@ -1,0 +1,3 @@
+[Variables]
+TITLE=To-Do
+WIDTH=300

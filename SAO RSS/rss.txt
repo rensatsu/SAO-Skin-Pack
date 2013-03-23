@@ -1,0 +1,4 @@
+[Variables]
+URL=http://lifehacker.com/top/index.xml
+RSSTITLE=Lifehacker
+WIDTH=300
