@@ -4,7 +4,7 @@ It's my first skin for Rainmeter, and I hope you like it :)
 
 This skin was inspired by anime Sword Art Online.
 
-It includes these skins:
+#### It includes these skins:
 
 * RAM Meter
 * CPU Meter
@@ -15,14 +15,14 @@ It includes these skins:
 * Text Widget (a.k.a. Notes)
 
 
-Some information:
+#### Some information:
 
 If you want to change a source for RSS reader, click on the title and change variables.
 
 How to edit information in Text widget: http://sta.sh/012hgfmjuagx
 
-Packages:
+#### Packages:
 
-Main: http://rdrag.deviantart.com/art/SAO-Skin-Pack-337047533
+Main: [Deviantart](http://rdrag.deviantart.com/art/SAO-Skin-Pack-337047533)
 
-Text widget: http://sta.sh/07sydf48jck
+Text widget: [Sta.sh](http://sta.sh/07sydf48jck)
