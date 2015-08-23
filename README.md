@@ -28,14 +28,14 @@ This skin was inspired by anime Sword Art Online.
 
 If you want to change a source for RSS reader, click on the title and change variables.
 
-How to edit information in Text widget: [GitHub](https://rdrag.github.io/projects/SAOSkinPack/sao_text_help.png) or [Sta.sh](http://sta.sh/012hgfmjuagx)
+How to edit information in Text widget: [GitHub](https://linkshift.github.io/projects/SAOSkinPack/sao_text_help.png) or [Sta.sh](http://sta.sh/012hgfmjuagx)
 
 ## Packages
 
 Main:
-* [GitHub](https://rdrag.github.io/projects/SAOSkinPack/sao_skin_pack.rmskin)
+* [GitHub](https://linkshift.github.io/projects/SAOSkinPack/sao_skin_pack.rmskin)
 * [Deviantart](http://rdrag.deviantart.com/art/SAO-Skin-Pack-337047533)
 
 Text widget:
-* [GitHub](https://rdrag.github.io/projects/SAOSkinPack/sao_text.rmskin)
+* [GitHub](https://linkshift.github.io/projects/SAOSkinPack/sao_text.rmskin)
 * [Deviantart Sta.sh](http://sta.sh/07sydf48jck)
